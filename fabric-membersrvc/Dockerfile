@@ -1,0 +1,1 @@
+From hyperledger/fabric-membersrvc:latest

@@ -1,1 +1,1 @@
-From hyperledger/fabric-kafka:0.4.15
+From hyperledger/fabric-kafka:latest

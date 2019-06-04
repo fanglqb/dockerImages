@@ -1,1 +1,1 @@
-From hyperledger/fabric-zookeeper:0.4.15
+From hyperledger/fabric-zookeeper:latest

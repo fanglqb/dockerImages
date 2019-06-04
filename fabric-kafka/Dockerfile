@@ -1,0 +1,1 @@
+From hyperledger/fabric-kafka:0.4.15

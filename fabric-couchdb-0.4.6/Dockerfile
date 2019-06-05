@@ -1,0 +1,1 @@
+From hyperledger/fabric-couchdb:x86_64-0.4.6

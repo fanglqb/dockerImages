@@ -1,0 +1,1 @@
+From hyperledger/fabric-ca:x86_64-1.1.0

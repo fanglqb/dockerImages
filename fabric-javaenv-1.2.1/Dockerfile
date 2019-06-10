@@ -1,1 +1,1 @@
-From hyperledger/fabric-javaenv:1.2.1
+From hyperledger/fabric-javaenv:ppc64le-1.1.1

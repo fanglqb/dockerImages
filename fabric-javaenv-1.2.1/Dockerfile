@@ -1,0 +1,1 @@
+From hyperledger/fabric-javaenv:1.2.1

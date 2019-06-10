@@ -1,0 +1,1 @@
+From hyperledger/fabric-ccenv:1.2.1

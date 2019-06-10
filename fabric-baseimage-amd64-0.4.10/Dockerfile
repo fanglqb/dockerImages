@@ -1,0 +1,1 @@
+From hyperledger/fabric-baseimage:amd64-0.4.10

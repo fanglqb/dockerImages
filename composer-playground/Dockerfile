@@ -1,0 +1,1 @@
+From hyperledger/composer-playground:latest
